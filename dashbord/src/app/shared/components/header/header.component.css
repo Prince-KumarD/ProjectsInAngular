@@ -1,0 +1,13 @@
+mat-button-toggle-group {
+    margin-left: 2rem;
+    justify-items: auto;
+    background: none;
+    outline: none;
+    backface-visibility: hidden;
+}
+mat-raised-button, a {
+    border-radius: 40px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+
